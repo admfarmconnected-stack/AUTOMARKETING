@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AUTOMARKETING",
+  "description": "Uma vitrine digital elegante para venda de veículos com painel administrativo para gerenciamento de estoque e banners de parceiros.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
